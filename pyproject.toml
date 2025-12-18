@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "stellars_jupyterlab_favourites"
-version = "1.0.1"
+version = "1.0.3"
 description = "Metapackage aggregating Stellars JupyterLab extensions, fixes, themes, and favourite third-party packages"
 readme = "README.md"
 license = {text = "MIT"}
@@ -56,5 +56,6 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/stellarshenson"
-Repository = "https://github.com/stellarshenson"
+Homepage = "https://github.com/stellarshenson/stellars_jupyterlab_favourites"
+Repository = "https://github.com/stellarshenson/stellars_jupyterlab_favourites"
+
